@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3801b3ed-af7f-4c69-9e54-2b1001094b6f" name="Default" comment="" />
+    <list default="true" id="3801b3ed-af7f-4c69-9e54-2b1001094b6f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-tara/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-tara/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-tara/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-tara/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-tara/MyArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab-tara/MyArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-custom-array-list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03-custom-array-list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-custom-array-list/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03-custom-array-list/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03-custom-array-list/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03-custom-array-list/MyArrayListTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +23,14 @@
       <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="214">
+              <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+              <folding>
+                <element signature="e#3150#3151#0" expanded="true" />
+                <element signature="e#3186#3187#0" expanded="true" />
+                <element signature="e#3271#3272#0" expanded="true" />
+                <element signature="e#3310#3311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -24,8 +38,8 @@
       <file leaf-file-name="MyArrayListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="629">
+              <caret line="91" column="85" lean-forward="true" selection-start-line="91" selection-start-column="85" selection-end-line="91" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,11 +68,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-3" />
-    <option name="y" value="3" />
-    <option name="width" value="2904" />
-    <option name="height" value="2013" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="531" />
+    <option name="y" value="18" />
+    <option name="width" value="3243" />
+    <option name="height" value="1995" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -68,8 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,6 +94,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyArrayListTest.addAtIndex">
+  <component name="RunManager" selected="JUnit.MyArrayListTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -136,13 +150,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyArrayListTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyArrayListTest.removeAtIndexSingleElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-custom-array-list" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyArrayListTest" />
-      <option name="METHOD_NAME" value="add" />
+      <option name="METHOD_NAME" value="removeAtIndexSingleElementTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -153,13 +167,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyArrayListTest.addAtIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyArrayListTest.removeValueSingleElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-custom-array-list" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyArrayListTest" />
-      <option name="METHOD_NAME" value="addAtIndex" />
+      <option name="METHOD_NAME" value="removeValueSingleElementTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -170,13 +184,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyArrayListTest.removeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyArrayListTest.removeValueSingleEmptyArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-custom-array-list" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyArrayListTest" />
-      <option name="METHOD_NAME" value="removeValue" />
+      <option name="METHOD_NAME" value="removeValueSingleEmptyArrayTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -187,13 +201,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MyArrayListTest.size2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyArrayListTest.removeValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-custom-array-list" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyArrayListTest" />
-      <option name="METHOD_NAME" value="size2" />
+      <option name="METHOD_NAME" value="removeValueTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -243,19 +257,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="JUnit.MyArrayListTest.removeValueTest" />
+      <item itemvalue="JUnit.MyArrayListTest.removeAtIndexSingleElementTest" />
+      <item itemvalue="JUnit.MyArrayListTest.removeValueSingleElementTest" />
+      <item itemvalue="JUnit.MyArrayListTest.removeValueSingleEmptyArrayTest" />
       <item itemvalue="JUnit.MyArrayListTest" />
-      <item itemvalue="JUnit.MyArrayListTest.size2" />
-      <item itemvalue="JUnit.MyArrayListTest.removeValue" />
-      <item itemvalue="JUnit.MyArrayListTest.add" />
-      <item itemvalue="JUnit.MyArrayListTest.addAtIndex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyArrayListTest.addAtIndex" />
-        <item itemvalue="JUnit.MyArrayListTest.add" />
-        <item itemvalue="JUnit.MyArrayListTest.removeValue" />
         <item itemvalue="JUnit.MyArrayListTest" />
-        <item itemvalue="JUnit.MyArrayListTest.size2" />
+        <item itemvalue="JUnit.MyArrayListTest.removeValueTest" />
+        <item itemvalue="JUnit.MyArrayListTest.removeValueSingleEmptyArrayTest" />
+        <item itemvalue="JUnit.MyArrayListTest.removeValueSingleElementTest" />
+        <item itemvalue="JUnit.MyArrayListTest.removeAtIndexSingleElementTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,63 +287,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyArrayListTest_add - 2018.07.14 at 22h 38m 55s.xml">
-      <configuration name="MyArrayListTest.add" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueTest - 2018.07.21 at 21h 23m 35s.xml">
+      <configuration name="MyArrayListTest.removeValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 39m 17s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueTest - 2018.07.21 at 21h 24m 44s.xml">
+      <configuration name="MyArrayListTest.removeValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 39m 45s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueTest - 2018.07.21 at 21h 25m 03s.xml">
+      <configuration name="MyArrayListTest.removeValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 40m 16s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueTest - 2018.07.21 at 21h 27m 32s.xml">
+      <configuration name="MyArrayListTest.removeValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 40m 45s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueSingleElementTest - 2018.07.21 at 21h 29m 21s.xml">
+      <configuration name="MyArrayListTest.removeValueSingleElementTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 41m 02s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueSingleEmptyArrayTest - 2018.07.21 at 21h 29m 49s.xml">
+      <configuration name="MyArrayListTest.removeValueSingleEmptyArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 42m 20s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest - 2018.07.21 at 21h 30m 56s.xml">
+      <configuration name="MyArrayListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 42m 54s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest - 2018.07.21 at 21h 35m 30s.xml">
+      <configuration name="MyArrayListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 44m 42s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest_removeValueTest - 2018.07.21 at 21h 37m 01s.xml">
+      <configuration name="MyArrayListTest.removeValueTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyArrayListTest_addAtIndex - 2018.07.14 at 22h 46m 23s.xml">
-      <configuration name="MyArrayListTest.addAtIndex" configurationId="JUnit" />
+    <history-entry file="MyArrayListTest - 2018.07.21 at 21h 41m 12s.xml">
+      <configuration name="MyArrayListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="1" width="968" height="671" extended-state="1" />
+    <frame x="177" y="6" width="1081" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32894737" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2881041" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31578946" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780701" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1992263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32899627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -341,10 +355,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#3150#3151#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+            <element signature="e#3271#3272#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -379,10 +416,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="629">
+          <caret line="91" column="85" lean-forward="true" selection-start-line="91" selection-start-column="85" selection-end-line="91" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -391,8 +435,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab-tara/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding>
+            <element signature="e#3150#3151#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+            <element signature="e#3271#3272#0" expanded="true" />
+            <element signature="e#3310#3311#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
